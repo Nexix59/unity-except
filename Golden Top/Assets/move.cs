@@ -5,10 +5,9 @@ using UnityEngine;
 public class move : MonoBehaviour
 {
     public float moveSpeed;
-
     public Rigidbody2D rb;
-
     private Vector2 moveDirection;
+    public GameObject projectile;
 
     // Update is called once per frame
     void Update()
