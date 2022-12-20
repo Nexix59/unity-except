@@ -41,6 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Tiles
+    uniqueID: 823434897
+    locked: 0
   - name: Sign
     uniqueID: 722903405
     locked: 0
